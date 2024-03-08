@@ -8,7 +8,7 @@ public class MainPage {
 
 	@GetMapping("/")
 	public String index() {
-		return "Hello";
+		return "Test";
 	}
 	
 }
